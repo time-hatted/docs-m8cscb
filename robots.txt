@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-njaep8.andorra.com.br/sitemap.xml
